@@ -6,7 +6,7 @@ This a app uploads memes from a user's local machine to a server.
 
 ## Screenshots
 
-### Home Screen
+### Home screen
 ![Home screen](./screenshots/101.JPG)
 
 ### Upload meme popup
