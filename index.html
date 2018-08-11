@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Gator Memes</title>
+		<link rel="stylesheet" type="text/css" href="style.css">
+	</head>
+	<body>
+		<div class="header">
+			<h1>Gator Memes</h1>
+			<!--
+				I learned how to create a custom upload button from this site:
+				http://jsfiddle.net/4cwpLvae/
+			-->
+			<label for="multiplefiles">Upload Your Memes!</label>
+			<input type="file" id="multiplefiles" multiple="multiple"/>
+		</div>
+		<div class="main">
+			<div id="meme-buttons" class="meme-selection">
+				<h1>Pick a Meme!</h1>
+			</div>
+			<div class="meme-view">
+				<img id="image" src="images/uf8.jpg"/>
+			</div>
+		</div>
+		<div id="popup" class="modal">
+			<div id="popup-content" class="modal-content">
+				<a onclick="closePopup()"></a>
+				<br/>
+			</div>
+		</div>
+		<script src="script.js"></script>
+	</body>
+</html>
