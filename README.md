@@ -11,3 +11,7 @@ This a app uploads memes from a user's local machine to a server.
 
 ### Upload meme popup
 ![Uploading photos](./screenshots/104.JPG)
+
+
+### Application after uploading/canceling the photos
+![Update Home Screen](./screenshots/1011.JPG)
