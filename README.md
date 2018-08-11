@@ -6,3 +6,4 @@ This a app uploads memes from a user's local machine to a server.
 
 ## Screenshots
 ![Home Screen](./screenshots/101.JPG)
+![Uploading photos](./screenshots/104.JPG)
